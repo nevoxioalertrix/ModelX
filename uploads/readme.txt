@@ -1,0 +1,1 @@
+after training the data set you will see a csv file named training_data use that to get the prediction
