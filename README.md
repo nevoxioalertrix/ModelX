@@ -1,2 +1,2 @@
-# ModelX
-ML based NACC Disease Predictor for model x 
+# ModelX Hackathon
+ML based NACC Disease Predictor for ModelX 48hr Hackathon
