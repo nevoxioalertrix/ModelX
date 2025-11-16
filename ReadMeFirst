@@ -1,8 +1,0 @@
-Follow the following steps to achieve flawless output:
-1. Download all files.
-2. Install/ import all required libraries.
-3. First run app.py file. It will direct to the interface.
-4. To train the model, add the Dementia Prediction Dataset csv file to it. (Given by ModelX team)
-5. As a result, training_data.csv file will be automatically be seen on the "uploads" folder.
-6. Insert that training_data.csv file to prediction.
-7. Final output will be seen on the interface.
